@@ -1,0 +1,20 @@
+{
+  "name": "googleMapSearch",
+  "version": "1.0.0",
+  "description": "Search on google map",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "puppeteer",
+    "google",
+    "maps"
+  ],
+  "author": "QuangBV",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^1.14.0"
+  }
+}
